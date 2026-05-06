@@ -43,8 +43,9 @@ H = F*G #float result
 print(H)
 M,N = 1.5 , 3
 R= M//N
- #integer division with float result float CLOSEST integer  and round of small value example 1.5//3 = 0.5 but ans 0.0 example -12//5 =-2.4 but resullt = -3
 print(R, M/N)
+ #integer division with float result float CLOSEST integer  and round of small value example 1.5//3 = 0.5 but ans #0.0 example -12//5 =-2.4 but resullt = -3 
+
 k , l = -5 ,2 
 r = k%l
 print(r) #output 1 it is give remender
